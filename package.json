@@ -1,0 +1,23 @@
+{
+  "name": "ahj_http_server",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinatfe/ahj_http_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinatfe/ahj_http_server/issues"
+  },
+  "homepage": "https://github.com/rinatfe/ahj_http_server#readme",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-body": "^4.2.0",
+    "koa-cors": "^0.0.16",
+    "nodemon": "^2.0.7"
+  }
+}
